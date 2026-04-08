@@ -5,27 +5,27 @@
 </h1>
 
 <p align="center">
-  <em>Python engineer building autonomous AI systems that make decisions on their own.</em>
+  <em>Software engineer building autonomous AI systems that make decisions on their own.</em>
 </p>
 
 <p align="center">
+  <a href="https://beamish-zuccutto-c663e0.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0b0b11?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/divya-nautiyal-d07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:divyanautiyal07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/DIvyaNautiyal07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-- 🔧 I build **autonomous AI agents** — systems that trade, manage assets, and coordinate with each other in production
-- 🐍 Mostly Python. Also write Rust, TypeScript, Solidity, C#, and Java when needed
-- 🤖 Deep into **LLM pipelines** (OpenAI, Anthropic, Google), RAG, embeddings, and multi-model evaluation
-- 💬 Ask me about autonomous agents, DeFi, or LLM prompt engineering
+- I build **autonomous AI agents** that trade, manage assets, and coordinate with each other in production
+- Mostly Python. Also write Rust, TypeScript, Solidity, C#, and Java when needed
+- Deep into **LLM pipelines** (OpenAI, Anthropic, Google), RAG, embeddings, and multi-model evaluation
+- Ask me about autonomous agents, DeFi, or LLM prompt engineering
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
 
@@ -73,7 +73,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DIvyaNautiyal07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="170"/>
@@ -85,7 +85,8 @@
 </p>
 
 ---
-### 🐍 Contribution Graph
+
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DIvyaNautiyal07/DIvyaNautiyal07/output/github-snake-dark.svg" />
