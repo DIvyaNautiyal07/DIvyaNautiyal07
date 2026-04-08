@@ -76,24 +76,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIvyaNautiyal07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIvyaNautiyal07&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DIvyaNautiyal07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=DIvyaNautiyal07&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIvyaNautiyal07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DIvyaNautiyal07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8"/>
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DIvyaNautiyal07&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
-</p>
-
----
-
 ### 🐍 Contribution Graph
 
 <picture>
